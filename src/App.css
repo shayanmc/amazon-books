@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#root {
+    text-align: center;
+}
+.booklist {
+    margin-top: 25px;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.booklist img {
+    width: 75%;
+    height: 75%;
+}
+.book h1 {
+    padding: 10px 0 ; 
+}
+.book h4 {
+    color: gray;
+}
